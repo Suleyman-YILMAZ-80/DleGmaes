@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Aatrox",
+        "gender": "Male",
+        "positions": ["Top"],
+        "species": ["Darkin"],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "region": ["Runeterra", "Shurima"],
+        "releaseYear": 2013,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+      },
+    {
+        "name": "Ahri",
+        "gender": "Female",
+        "positions": ["Mid"],
+        "species": ["Vastaya"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Ionia"],
+        "releaseYear": 2011,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+      },
+      {
+        "name": "Akali",
+        "gender": "Female",
+        "positions": ["Mid"],
+        "species": ["Human"],
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "region": ["Ionia"],
+        "releaseYear": 2010,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg"
+      },
+      {
+        "name": "Akshan",
+        "gender": "Male",
+        "positions": ["Mid"],
+        "species": ["Human"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Shurima"],
+        "releaseYear": 2021,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg"
+      },
+      {
+        "name": "Alistar",
+        "gender": "Male",
+        "positions": ["Support"],
+        "species": ["Minataur"],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "region": ["Noxus", "Runeterra"],
+        "releaseYear": 2009,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg"
+      },
+      {
+        "name": "Ambessa",
+        "gender": "Female",
+        "positions": ["Jungle", "Top"],
+        "species": ["Human"],
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "region": ["Noxus", "Piltover"],
+        "releaseYear": 2024,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg"
+      },
+      {
+        "name": "Amumu",
+        "gender": "Male",
+        "positions": ["Jungle"],
+        "species": ["Undead", "Yordle"],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "region": ["Shurima"],
+        "releaseYear": 2009,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg"
+      },
+      {
+        "name": "Anivia",
+        "gender": "Female",
+        "positions": ["Mid"],
+        "species": ["God", "Spirit"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Freljord"],
+        "releaseYear": 2009,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg"
+      },
+      {
+        "name": "Annie",
+        "gender": "Female",
+        "positions": ["Mid"],
+        "species": ["Human", "Magicborn"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Noxus", "Runeterra"],
+        "releaseYear": 2009,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg"
+      },
+      {
+        "name": "Aphelios",
+        "gender": "Male",
+        "positions": ["Bottom"],
+        "species": ["Human", "Spiritualist"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Targon"],
+        "releaseYear": 2019,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg"
+      },
+      {
+        "name": "Ashe",
+        "gender": "Female",
+        "positions": ["Bottom"],
+        "species": ["Human", "Iceborn"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Freljord"],
+        "releaseYear": 2009,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+      },
+      {
+        "name": "Aurelion Sol",
+        "gender": "Male",
+        "positions": ["Mid"],
+        "species": ["Celestial", "Dragon"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Runeterra", "Targon"],
+        "releaseYear": 2016,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg"
+      },
+      {
+        "name": "Aurora",
+        "gender": "Female",
+        "positions": ["Mid","Top"],
+        "species": ["Vastaya"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Freljord"],
+        "releaseYear": 2024,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg"
+      },
+      {
+        "name": "Azir",
+        "gender": "Male",
+        "positions": ["Mid"],
+        "species": ["God-Warrior"],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "region": ["Shurima"],
+        "releaseYear": 2014,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg"
+      },
+      {
+        "name":"Bard",
+        "gender":"Male",
+        "positions":["Support"],
+        "species":["Celestial"],
+        "resource":"Mana",
+        "rangeType":"Ranged",
+        "region":["Runeterra"],
+        "releaseYear": 2015,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg"
+      },
+      {
+        "name":"Bel'veth",
+        "gender":"Female",
+        "positions":["Jungle"],
+        "species":["Voidborn"],
+        "resource":"Mana",
+        "rangeType":"Melee",
+        "region":["Runeterra", "Void"],
+        "releaseYear": 2022,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg"
+      },
+      {
+        "name":"Blitzcrank",
+        "gender":"Other",
+        "positions":["Support"],
+        "species":["Golem"],
+        "resource":"Mana",
+        "rangeType":"Melee",
+        "region":["Zaun"],
+        "releaseYear": 209,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg"
+      },
+      {
+        "name":"Brand",
+        "gender":"Male",
+        "positions":["Mid", "Support"],
+        "species":["Human", "Elementalist"],
+        "resource":"Mana",
+        "rangeType":"Ranged",
+        "region":["Freljord", "Runeterra"],
+        "releaseYear": 2011,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg"
+      },
+      {
+        "name":"Braum",
+        "gender":"Male",
+        "positions":["Support"],
+        "species":["Human", "Iceborn"],
+        "resource":"Mana",
+        "rangeType":"Melee",
+        "region":["Freljord"],
+        "releaseYear": 2014,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg"
+      },
+      {
+        "name":"Briar",
+        "gender":"Female",
+        "positions": ["Jungle"],
+        "species": ["Golem"],
+        "resource": "Health cost",
+        "rangeType": "Melee",
+        "region": ["Noxus"],
+        "releaseYear": 2023,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg"
+      },
+      {
+        "name":"Caitlyn",
+        "gender":"Female",
+        "positions":["Bottom"],
+        "species":["Human"],
+        "resource":"Mana",
+        "rangeType":"Ranged",
+        "region":["Piltover"],
+        "releaseYear": 2011,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg"
+      },
+      {
+        "name":"Camille",
+        "gender":"Female",
+        "positions":["Top"],
+        "species": ["Human","Cyborg"],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "region": ["Piltover"],
+        "releaseYear": 2016,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg"
+      },
+      {
+        "name":"Cassiopeia",
+        "gender":"Female",
+        "positions":["Mid","Top"],
+        "species":["Human", "Megically Altered"],
+        "resource":"Mana",
+        "rangeType":"Ranged",
+        "region":["Shurima","Noxus"],
+        "releaseYear": 2010,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg"
+      },
+      {
+        "name":"Cho'gath",
+        "gender":"Male",
+        "positions":["Top"],
+        "species":["Voidborn"],
+        "resource":"Mana",
+        "rangeType":"Melee",
+        "region":["Void"],
+        "releaseYear": 2009,
+        "img":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg"
+      }
+  ]
+  
